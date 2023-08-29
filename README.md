@@ -1,6 +1,6 @@
 ![MasterHead](https://iforum-ru.c.hihonor.com/ru_data/images/10000/2023/2/13/60ad7d7a-dcba-4766-8c6f-4759efc4a43f.gif?imageId=315936)
 <h1 align="center">Привет 👋, меня зовут Ильсур</h1>
-<h3 align="center">Я физик и DS-студент</h3>
+<h3 align="center">Я физик и DataScientist/CV-engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gazizovilsur26&label=Profile%20views&color=0e75b6&style=flat" alt="gazizovilsur26" /> </p>
 
