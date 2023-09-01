@@ -10,7 +10,24 @@
 - Мой ВК **https://vk.com/ilsur26**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://luxe-host.ru/wp-content/uploads/8/7/5/875342a3517d0d30993f90b25803c31d.png" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+        <img src="https://camo.githubusercontent.com/016e54b673ca5a16916351dcac8a3c390aa81c4a5714a8c8320c2824be01d1e1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672f3235363070782d5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672e706e67" alt="scikit-learn" width="60" height="40"/>
+    </a>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gazizovilsur26&show_icons=true&locale=en&layout=compact" alt="gazizovilsur26" /></p>
 
