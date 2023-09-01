@@ -14,6 +14,7 @@
 - Моя почта **gazizovilsur26@gmail.com**
 - Мой YouTube канал **https://www.youtube.com/@parta1306**
 - Мой ВК **https://vk.com/ilsur26**
+- Мой инстаграм **https://instagram.com/ilsur26**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
