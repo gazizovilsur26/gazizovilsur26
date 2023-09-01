@@ -39,11 +39,11 @@
 <td align="right">Pandas, Tensorflow, Keras, AdamW, nltk, CatBoost</td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/gazizovilsur26/SberTest" rel="nofollow">"Анализ поведения пользователей и прогнозирование выручки в интернет-магазине"</a></td>
+<td align="left"><a href="https://github.com/gazizovilsur26/SberTest" rel="nofollow">Анализ поведения пользователей и прогнозирование выручки в интернет-магазине</a></td>
 <td>Задача проекта заключается в анализе датасета о поведении пользователей интернет-магазина для выявления действий, 
 влияющих на конверсию, и разработке модели машинного обучения, основанной на гипотезах, для предсказания, генерируют ли действия пользователя выручку (Revenue), 
 с предоставлением исследовательского анализа и модели</td>
-<td align="right">Phik, CatBoost, LightGBM, RandomForest</td>
+<td align="right">Phik, CatBoost, LightGBM, RandomForest, Bert</td>
 </tr>
 <tr>
 <td align="left"><a href="https://github.com/gazizovilsur26/Simpsons_classification/tree/main" rel="nofollow">Классификация изображений Симпсонов</a></td>
