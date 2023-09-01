@@ -1,8 +1,14 @@
 ![MasterHead](https://iforum-ru.c.hihonor.com/ru_data/images/10000/2023/2/13/60ad7d7a-dcba-4766-8c6f-4759efc4a43f.gif?imageId=315936)
 <h1 align="center">Привет 👋, меня зовут Ильсур</h1>
-<h3 align="center">Я физик и DataScientist/CV-engineer</h3>
+<h3 align="center">Я физик и DataScientist/CV-engineer из Казани/Москвы</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gazizovilsur26&label=Profile%20views&color=0e75b6&style=flat" alt="gazizovilsur26" /> </p>
+<p align="left">🔭 Физик по образованию, Data Scientist в Parta</p>
+<p align="left">🌉 Живу в прекрасных городах - в Казани и в Москве</p>
+<p align="left">🎭 Футболист, бегун, хоккеист, меломан, киноман - но всё с приставкой любитель</p>
+
+
+<h3 align="left">Мои контакты:</h3>
 
 - Мой телеграм **https://t.me/gazizovilsur**
 - Моя почта **gazizovilsur26@gmail.com**
