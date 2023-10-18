@@ -3,7 +3,7 @@
 <h3 align="center">Я физик и DataScientist/CV-engineer из Москвы/Казани</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gazizovilsur26&label=Profile%20views&color=0e75b6&style=flat" alt="gazizovilsur26" /> </p>
-<p align="left">🔭 Физик по образованию, Data Scientist в Parta</p>
+<p align="left">🔭 Ml-engineer в SynergyBot, физик в Parta</p>
 <p align="left">🌉 Живу в прекрасных городах - в Москве и в Казани</p>
 <p align="left">🎭 Футболист, бегун, хоккеист, меломан, киноман - но всё с приставкой любитель</p>
 
